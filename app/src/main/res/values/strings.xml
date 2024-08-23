@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">emptViews</string>
+    <string name="True">True</string>
+    <string name="False">False</string>
+    <string name="Cheat">Cheat</string>
+    <string name="Return">Return</string>
+    <string name="Prev">&lt;-Prev</string>
+    <string name="Next">Next-&gt;</string>
+    <string name="Are_You_Sure">Are You Sure You Want To Do This?</string>
+    <string name="Cheater">Cheating is wrong☹️</string>
+</resources>
